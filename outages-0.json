@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Slack",
-		"link": ""
+		"link": "https://status.slack.com/2021-09/06c1e17de93e7dc2"
 	},
 	{
 		"name": "Oracle Cloud",
@@ -61,7 +61,7 @@
 	},
 	{
 		"name": "Facebook / WhatsApp / Instagram",
-		"link": ""
+		"link": "https://engineering.fb.com/2021/10/04/networking-traffic/outage/"
 	},
 	{
 		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
@@ -81,7 +81,7 @@
 	},
 	{
 		"name": "An entire TLD",
-		"link": ""
+		"link": "https://old.reddit.com/r/sysadmin/comments/q38p8x/entire_club_domain_extension_is_down/"
 	},
 	{
 		"name": "Other major CDN provider (Fastly, Akamai, etc.)",
@@ -89,7 +89,7 @@
 	},
 	{
 		"name": "Twitch",
-		"link": ""
+		"link": "https://www.theverge.com/2021/10/6/22712250/twitch-hack-leak-data-streamer-revenue-steam-competitor"
 	},
 	{
 		"name": "A major VPN service",
