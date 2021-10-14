@@ -64,7 +64,9 @@ function getDateString(month) {
 
 function redirectToNewCard(month) {
 	let url = window.location.href;
-	url = url.slice(0, url.indexOf("?") - 1);
+	if (!url.indexOf("?") !== -1) {
+		url = url.slice(0, url.indexOf("?"));
+	}
 	url += `?month=${month}`;
 	url += `&seed=${Math.floor(Math.random() * 99999)}`;
 	window.location.assign(url);
