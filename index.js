@@ -12,8 +12,30 @@ if (urlParams.has("month")) {
 	params.month = (year - 2021) * 12 + month - 9;
 }
 
+function stringToNumber(str) {
+    // Keep the old seeds working
+    let numeric = true;
+    for(let c of str) {
+        if(c < '0' || c > '9') {
+            numeric = false;
+            break;
+        }
+    }
+    if(numeric) {
+        return parseInt(str);
+    }
+
+    // Handle alphanumerical seeds
+    let result = 0;
+    Array.from(str).forEach((c) => {
+        result = result * 0x10FFFF + c.codePointAt(0);
+        result = result % 0x1000000;
+    });
+    return result;
+}
+
 if (urlParams.has("seed")) {
-	params.seed = parseInt(urlParams.get("seed"));
+	params.seed = stringToNumber(urlParams.get("seed"));
 } else {
 	params.seed = 1;
 }
