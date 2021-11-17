@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>Major Breach and Outage Bingo</title>
-		<script src="./index.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/js-confetti@latest/dist/js-confetti.browser.js"></script>
 		<style type="text/css">
 			body {
 				font-family: sans;
@@ -47,11 +47,25 @@
 			.cell-checked {
 				background-color: aquamarine;
 			}
+			#confetti {
+				position: fixed;
+				top: 0;
+				left: 0;
+				width: 100vw;
+				height: 100vh;
+				pointer-events: none;
+			}
+			.invis {
+				visibility: hidden;
+			}
 		</style>
 	</head>
 	<body>
+		<canvas id="confetti"></canvas>
+		<marquee id="bingo" class="invis"></marquee>
 		<h1>Major Breach and Outage Bingo</h1>
 		<a href="https://github.com/queer/outage.bingo">Source</a>
 		<div id="loading">Loading card...</div>
+		<script src="./index.js"></script>
 	</body>
 </html>
