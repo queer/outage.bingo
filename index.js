@@ -138,7 +138,9 @@ function redirectToNewCard(month) {
 
 	const shuffled = shuffle(data, params.seed)
 	const table = document.createElement("table")
-	// We're going to do a new array so that the final card will be in one smaller array just in case we have more than 24 options, and so that we can include the free space
+	// We're going to do a new array so that the final card will be in one
+	// smaller array just in case we have more than 24 options, and so that
+	// we can include the free space
 	const finalCard = []
 
 	for (let i = 0; i < 5; i++) {
