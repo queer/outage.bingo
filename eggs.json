@@ -1,0 +1,10 @@
+[
+  {
+    "match": {
+      "all": ["banana", "dragon"]
+    },
+    "mutate": {
+      "background": "url(/img/bananadragon.png) 0 / cover no-repeat"
+    }
+  }
+]
