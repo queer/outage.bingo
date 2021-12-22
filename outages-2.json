@@ -57,7 +57,11 @@
 	},
 	{
 		"name": "Amazon / AWS",
-		"link": "https://news.ycombinator.com/item?id=29473630"
+		"link": [
+			"https://news.ycombinator.com/item?id=29473630", 
+			"https://www.theverge.com/2021/12/15/22837637/aws-west-is-down-twitch-outage-amazon", 
+			"https://www.theverge.com/2021/12/22/22849780/amazon-aws-is-down-outage-slack-imgur-hulu-asana-epic"
+		]
 	},
 	{
 		"name": "Facebook / WhatsApp / Instagram",
