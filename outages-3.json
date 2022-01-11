@@ -1,11 +1,11 @@
 [
 	{
 		"name": "Slack",
-		"link": "https://status.slack.com/2021-12/f756fef8e8c0c05b"
+		"link": ""
 	},
 	{
 		"name": "A major cryptocurrency service",
-		"link": "https://status.coinbase.com/incidents/p2hj1rc6l4h1"
+		"link": ""
 	},
 	{
 		"name": "A major ISP / telecom company",
@@ -13,11 +13,11 @@
 	},
 	{
 		"name": "Cloudflare",
-		"link": "https://www.cloudflarestatus.com/incidents/qz5m74q8q0jl"
+		"link": ""
 	},
 	{
 		"name": "Google (main servers)",
-		"link": "https://www.google.com/appsstatus/dashboard/incidents/zURR7mGQjom4ktGZcR5A"
+		"link": ""
 	},
 	{
 		"name": "Twitter",
@@ -33,7 +33,7 @@
 	},
 	{
 		"name": "Reddit",
-		"link": "https://www.redditstatus.com/incidents/fnzshkkyzz10"
+		"link": "https://www.redditstatus.com/incidents/pj770zj700l1"
 	},
 	{
 		"name": "Microsoft Azure",
@@ -49,7 +49,7 @@
 	},
 	{
 		"name": "A government entity",
-		"link": "https://www.itnews.com.au/news/sa-gov-employee-data-stolen-in-frontier-software-ransomware-attack-573880"
+		"link": ""
 	},
 	{
 		"name": "A large DNS provider",
@@ -57,19 +57,15 @@
 	},
 	{
 		"name": "Amazon / AWS",
-		"link": [
-			"https://news.ycombinator.com/item?id=29473630", 
-			"https://www.theverge.com/2021/12/15/22837637/aws-west-is-down-twitch-outage-amazon", 
-			"https://www.theverge.com/2021/12/22/22849780/amazon-aws-is-down-outage-slack-imgur-hulu-asana-epic"
-		]
+		"link": ""
 	},
 	{
 		"name": "Facebook / WhatsApp / Instagram",
-		"link": "https://news.yahoo.com/facebook-down-thousands-users-two-140618321.html"
+		"link": ""
 	},
 	{
 		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
-		"link": "https://status.python.org/incidents/0kx5k4p9ljyw"
+		"link": ""
 	},
 	{
 		"name": "Apple",
@@ -77,7 +73,7 @@
 	},
 	{
 		"name": "Google Cloud Platform",
-		"link": ""
+		"link": "https://status.cloud.google.com/incidents/NMcnk6aE8xMHHwRGmyry"
 	},
 	{
 		"name": "Microsoft (main servers)",

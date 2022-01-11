@@ -90,7 +90,16 @@ function createBingoCell(name, link) {
 		cell.innerText = name
 		cell.className = "cell-unchecked"
 	} else {
-		cell.innerHTML = `<a href="${link}"><p>${name}</p></a>`
+		if (Array.isArray(link)) {
+			let linkHTML = link
+				.map((href, index) => {
+					return `<a href="${href}">[${index + 1}]</a>`
+				})
+				.join("")
+			cell.innerHTML = `<p>${name}</p><div>${linkHTML}</div>`
+		} else {
+			cell.innerHTML = `<a href="${link}"><p>${name}</p></a>`
+		}
 		cell.className = "cell-checked"
 	}
 	return cell
