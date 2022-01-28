@@ -13,7 +13,7 @@
 	},
 	{
 		"name": "Cloudflare",
-		"link": ""
+		"link": "https://blog.cloudflare.com/incorrect-proxying-of-24-hostnames-on-january-24-2022/"
 	},
 	{
 		"name": "Google (main servers)",
@@ -21,7 +21,7 @@
 	},
 	{
 		"name": "Twitter",
-		"link": ""
+		"link": "https://twitter.com/twittersupport/status/1484353015297372168"
 	},
 	{
 		"name": "Tesla",
@@ -65,11 +65,11 @@
 	},
 	{
 		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
-		"link": ""
+		"link": "https://www.githubstatus.com/incidents/xvk42jkm6fzk"
 	},
 	{
 		"name": "Apple",
-		"link": ""
+		"link": "https://www.macrumors.com/2022/01/26/apples-icloud-service-experiencing-outage/"
 	},
 	{
 		"name": "Google Cloud Platform",
