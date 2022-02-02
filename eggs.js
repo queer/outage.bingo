@@ -10,10 +10,10 @@ const matchers = {
 		return true;
 	},
 
-	// Returns true if the seed includes all terms
+	// Returns true if the seed includes any term
 	any(terms, seed) {
 		for (const term of terms) {
-			if (!seed.includes(term)) {
+			if (seed.includes(term)) {
 				return true;
 			}
 		}
