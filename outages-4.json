@@ -65,7 +65,10 @@
 	},
 	{
 		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
-		"link": "https://www.githubstatus.com/incidents/fz1bdbw24y81"
+		"link": [
+			"https://www.githubstatus.com/incidents/fz1bdbw24y81",
+			"https://status.dev.azure.com/_event/289290289"
+		]
 	},
 	{
 		"name": "Apple",
