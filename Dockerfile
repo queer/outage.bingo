@@ -1,2 +1,2 @@
 FROM nginx:alpine
-COPY *.html *.js *.json /usr/share/nginx/html/
+COPY *.html *.js *.json img /usr/share/nginx/html/
