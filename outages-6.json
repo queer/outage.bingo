@@ -33,7 +33,7 @@
 	},
 	{
 		"name": "Reddit",
-		"link": "https://www.redditstatus.com/incidents/0x47xx8wgs5g"
+		"link": ["https://www.redditstatus.com/incidents/0x47xx8wgs5g", "https://www.redditstatus.com/incidents/zyvgqgq128h8"]
 	},
 	{
 		"name": "Microsoft Azure",
