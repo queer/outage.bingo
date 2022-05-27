@@ -65,7 +65,10 @@
 	},
 	{
 		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
-		"link": "https://www.githubstatus.com/incidents/zhtplv7zd052"
+		"link": [
+			  "https://www.githubstatus.com/incidents/zhtplv7zd052",
+			  "https://github.blog/2022-05-26-npm-security-update-oauth-tokens/"
+			]
 	},
 	{
 		"name": "Apple",
