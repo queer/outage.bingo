@@ -13,7 +13,7 @@
 	},
 	{
 		"name": "Cloudflare",
-		"link": ""
+		"link": "https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/"
 	},
 	{
 		"name": "Google (main servers)",
@@ -77,7 +77,7 @@
 	},
 	{
 		"name": "Microsoft (main servers)",
-		"link": ""
+		"link": "https://portal.office.com/servicestatus"
 	},
 	{
 		"name": "An entire TLD",
