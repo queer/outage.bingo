@@ -65,7 +65,7 @@
 	},
 	{
 		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
-		"link": "https://status.python.org/incidents/l16ylxktn4r9"
+		"link": ["https://status.python.org/incidents/l16ylxktn4r9", "https://www.githubstatus.com/incidents/qzmhbwp7f6nn"]
 	},
 	{
 		"name": "Apple",
