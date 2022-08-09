@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Slack",
-		"link": "https://slack.com/intl/en-gb/blog/news/notice-about-slack-password-resets"
+		"link": ["https://slack.com/intl/en-gb/blog/news/notice-about-slack-password-resets", "https://status.slack.com/2022-08/1a58d5714b3ef784"]
 	},
 	{
 		"name": "A major cryptocurrency service",
