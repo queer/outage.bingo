@@ -49,7 +49,7 @@
 	},
 	{
 		"name": "A government entity",
-		"link": ""
+		"link": "https://news.ycombinator.com/item?id=33420583"
 	},
 	{
 		"name": "A large DNS provider",
@@ -65,7 +65,7 @@
 	},
 	{
 		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
-		"link": ""
+		"link": "https://www.githubstatus.com/incidents/69flmdbxhtsk"
 	},
 	{
 		"name": "Apple",
@@ -80,8 +80,8 @@
 		"link": ""
 	},
 	{
-		"name": "An entire TLD",
-		"link": ""
+		"name": "A major password manager",
+		"link": "https://www.goto.com/blog/our-response-to-a-recent-security-incident"
 	},
 	{
 		"name": "Other major CDN provider (Fastly, Akamai, etc.)",
