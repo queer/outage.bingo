@@ -17,7 +17,7 @@
 	},
 	{
 		"name": "Google (main servers)",
-		"link": ""
+		"link": "https://bugs.chromium.org/p/apvi/issues/detail?id=100"
 	},
 	{
 		"name": "Twitter",
@@ -49,7 +49,7 @@
 	},
 	{
 		"name": "A government entity",
-		"link": "https://news.ycombinator.com/item?id=33420583"
+		"link": ""
 	},
 	{
 		"name": "A large DNS provider",
@@ -65,7 +65,7 @@
 	},
 	{
 		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
-		"link": "https://www.githubstatus.com/incidents/69flmdbxhtsk"
+		"link": ""
 	},
 	{
 		"name": "Apple",
@@ -81,7 +81,7 @@
 	},
 	{
 		"name": "A major password manager",
-		"link": "https://www.goto.com/blog/our-response-to-a-recent-security-incident"
+		"link": ""
 	},
 	{
 		"name": "Other major CDN provider (Fastly, Akamai, etc.)",
