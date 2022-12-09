@@ -17,7 +17,7 @@
 	},
 	{
 		"name": "Google (main servers)",
-		"link": "https://bugs.chromium.org/p/apvi/issues/detail?id=100"
+		"link": ["https://bugs.chromium.org/p/apvi/issues/detail?id=100", "https://ads.google.com/status/publisher/incidents/EsQcYmPW6wkQvc9NZ4WB"]
 	},
 	{
 		"name": "Twitter",
