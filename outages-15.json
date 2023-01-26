@@ -80,8 +80,8 @@
 		"link": ""
 	},
 	{
-		"name": "An entire TLD",
-		"link": ""
+		"name": "A major stock exchange",
+		"link": "https://www.bloomberg.com/news/articles/2023-01-25/nyse-mayhem-traced-to-a-staffer-who-left-a-backup-system-running"
 	},
 	{
 		"name": "Other major CDN provider (Fastly, Akamai, etc.)",
