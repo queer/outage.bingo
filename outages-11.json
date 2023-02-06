@@ -4,8 +4,8 @@
 		"link": ""
 	},
 	{
-		"name": "A major cryptocurrency service",
-		"link": ""
+		"name": "A major online magazine/news site",
+		"link": "https://news.ycombinator.com/item?id=33019603"
 	},
 	{
 		"name": "A major ISP / telecom company",
@@ -25,7 +25,7 @@
 	},
 	{
 		"name": "Uber",
-		"link": ["https://twitter.com/hacker_/status/1570582202697809920", "https://twitter.com/vxunderground/status/1570597582417821703"]
+		"link": "https://www.nytimes.com/2022/09/15/technology/uber-hacking-breach.html"
 	},
 	{
 		"name": "YouTube",
@@ -52,12 +52,12 @@
 		"link": ""
 	},
 	{
-		"name": "A large DNS provider",
-		"link": ""
+		"name": "Rockstar Games",
+		"link": "https://twitter.com/RockstarGames/status/1571849091860029455"
 	},
 	{
 		"name": "Amazon / AWS",
-		"link": ""
+		"link": "https://news.ycombinator.com/item?id=33010341"
 	},
 	{
 		"name": "Facebook / WhatsApp / Instagram",
@@ -80,16 +80,16 @@
 		"link": ""
 	},
 	{
-		"name": "An entire TLD",
-		"link": ""
+		"name": "Children's games (Wizard101, Webkinz, Neopets, etc.)",
+		"link": "https://old.reddit.com/r/OutOfTheLoop/comments/xgklp9/whats_going_on_with_wizard101/"
 	},
 	{
 		"name": "U-Haul",
 		"link": "https://news.ycombinator.com/item?id=32864719"
 	},
 	{
-		"name": "Twitch",
-		"link": ""
+		"name": "KiwiFarms (yes, REALLY!)",
+		"link": "https://arstechnica.com/information-technology/2022/09/kiwi-farms-has-been-breached-assume-passwords-and-emails-have-been-leaked/"
 	},
 	{
 		"name": "A major VPN service",

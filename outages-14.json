@@ -4,12 +4,12 @@
 		"link": ""
 	},
 	{
-		"name": "A major cryptocurrency service",
-		"link": ""
+		"name": "Okta",
+		"link": "https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/"
 	},
 	{
-		"name": "A major ISP / telecom company",
-		"link": ""
+		"name": "A major ISP / telecom / server hosting company",
+		"link": "https://news.ycombinator.com/item?id=33839941"
 	},
 	{
 		"name": "Cloudflare",
@@ -17,11 +17,11 @@
 	},
 	{
 		"name": "Google (main servers)",
-		"link": ""
+		"link": ["https://bugs.chromium.org/p/apvi/issues/detail?id=100", "https://ads.google.com/status/publisher/incidents/EsQcYmPW6wkQvc9NZ4WB"]
 	},
 	{
 		"name": "Twitter",
-		"link": ""
+		"link": ["https://reddit.com/r/programming/comments/zuwgz4/twitter_data_breach_400_million_users_breachforums/", "https://news.ycombinator.com/item?id=34176208"]
 	},
 	{
 		"name": "Tesla",
@@ -49,7 +49,7 @@
 	},
 	{
 		"name": "A government entity",
-		"link": ""
+		"link": "https://news.ycombinator.com/item?id=33895622"
 	},
 	{
 		"name": "A large DNS provider",
@@ -65,7 +65,7 @@
 	},
 	{
 		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
-		"link": ""
+		"link": "https://news.ycombinator.com/item?id=33906591"
 	},
 	{
 		"name": "Apple",
@@ -77,11 +77,11 @@
 	},
 	{
 		"name": "Microsoft (main servers)",
-		"link": ""
+		"link": "https://arstechnica.com/information-technology/2022/12/microsoft-digital-certificates-have-once-again-been-abused-to-sign-malware/"
 	},
 	{
-		"name": "An entire TLD",
-		"link": ""
+		"name": "Another major social network",
+		"link": "https://arstechnica.com/information-technology/2022/12/hive-social-turns-off-servers-after-researchers-warn-hackers-can-access-all-data/"
 	},
 	{
 		"name": "Other major CDN provider (Fastly, Akamai, etc.)",

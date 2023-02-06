@@ -4,8 +4,8 @@
 		"link": ""
 	},
 	{
-		"name": "A major cryptocurrency service",
-		"link": ""
+		"name": "Toyota (yes, really!)",
+		"link": "https://blog.gitguardian.com/toyota-accidently-exposed-a-secret-key-publicly-on-github-for-five-years/"
 	},
 	{
 		"name": "A major ISP / telecom company",
@@ -65,7 +65,7 @@
 	},
 	{
 		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
-		"link": ""
+		"link": "https://www.githubstatus.com/incidents/smn1qtqvbsb6"
 	},
 	{
 		"name": "Apple",
