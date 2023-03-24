@@ -65,7 +65,7 @@
 	},
 	{
 		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
-		"link": "https://www.githubstatus.com/incidents/bypf7bqdh4g0"
+		"link": ["https://www.githubstatus.com/incidents/bypf7bqdh4g0", "https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/"]
 	},
 	{
 		"name": "Apple",
