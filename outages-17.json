@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Slack",
+		"link": ""
+	},
+	{
+		"name": "A major cryptocurrency service",
+		"link": ""
+	},
+	{
+		"name": "A major ISP / telecom company",
+		"link": ""
+	},
+	{
+		"name": "Cloudflare",
+		"link": ""
+	},
+	{
+		"name": "Google (main servers)",
+		"link": ""
+	},
+	{
+		"name": "Twitter",
+		"link": "https://news.ycombinator.com/item?id=35043359"
+	},
+	{
+		"name": "Tesla",
+		"link": ""
+	},
+	{
+		"name": "YouTube",
+		"link": ""
+	},
+	{
+		"name": "Reddit",
+		"link": "https://www.redditstatus.com/incidents/1xslswydctkp"
+	},
+	{
+		"name": "Microsoft Azure",
+		"link": ""
+	},
+	{
+		"name": "An antivirus / antimalware vendor",
+		"link": ""
+	},
+	{
+		"name": "Heroku",
+		"link": "https://status.heroku.com/incidents/2524"
+	},
+	{
+		"name": "A government entity",
+		"link": ""
+	},
+	{
+		"name": "A large DNS provider",
+		"link": ""
+	},
+	{
+		"name": "Amazon / AWS",
+		"link": "https://news.ycombinator.com/item?id=35148221"
+	},
+	{
+		"name": "Facebook / WhatsApp / Instagram",
+		"link": ""
+	},
+	{
+		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
+		"link": ["https://www.githubstatus.com/incidents/bypf7bqdh4g0", "https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/", "https://www.githubstatus.com/incidents/52z0j6phhnjs", "https://www.githubstatus.com/incidents/z3c6q056q332"]
+	},
+	{
+		"name": "Apple",
+		"link": ""
+	},
+	{
+		"name": "Google Cloud Platform",
+		"link": ""
+	},
+	{
+		"name": "Microsoft (main servers)",
+		"link": ""
+	},
+	{
+		"name": "An entire TLD",
+		"link": ""
+	},
+	{
+		"name": "Other major CDN provider (Fastly, Akamai, etc.)",
+		"link": ""
+	},
+	{
+		"name": "Twitch",
+		"link": ""
+	},
+	{
+		"name": "A major VPN service",
+		"link": ""
+	}
+]

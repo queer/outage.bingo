@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Slack",
+		"link": ""
+	},
+	{
+		"name": "A major cryptocurrency service",
+		"link": "https://thehackernews.com/2021/11/robinhood-trading-app-suffers-data.html"
+	},
+	{
+		"name": "A major ISP / telecom company",
+		"link": "https://www.dailyherald.com/news/20211109/comcast-internet-services-restored-for-many-after-morning-outage"
+	},
+	{
+		"name": "Cloudflare",
+		"link": ""
+	},
+	{
+		"name": "Google (main servers)",
+		"link": "https://indianexpress.com/article/technology/tech-news-technology/gmail-google-calendar-google-chat-reported-outages-a-cross-europe-asia-and-us-7619761/"
+	},
+	{
+		"name": "Twitter",
+		"link": ""
+	},
+	{
+		"name": "Tesla",
+		"link": "https://teslamotorsclub.com/tmc/threads/app-is-getting-500-server-error-cant-connect.247264/"
+	},
+	{
+		"name": "YouTube",
+		"link": "https://www.theverge.com/2020/11/11/21561764/youtube-down-outage-loading-videos"
+	},
+	{
+		"name": "Reddit",
+		"link": ""
+	},
+	{
+		"name": "Microsoft Azure",
+		"link": ""
+	},
+	{
+		"name": "An antivirus / antimalware vendor",
+		"link": ""
+	},
+	{
+		"name": "Dyn",
+		"link": ""
+	},
+	{
+		"name": "A government entity",
+		"link": "https://www.reddit.com/r/sysadmin/comments/qtdzck/fbi_email_root_cause_found/"
+	},
+	{
+		"name": "A large DNS provider",
+		"link": "https://techcrunch.com/2021/11/22/godaddy-breach-million-accounts/"
+	},
+	{
+		"name": "Amazon / AWS",
+		"link": ""
+	},
+	{
+		"name": "Facebook / WhatsApp / Instagram",
+		"link": "https://www.express.co.uk/life-style/science-technology/1516112/Instagram-DOWN-DMs-not-loading-for-thousands-of-Instagram-users-why-is-Instagram-down"
+	},
+	{
+		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
+		"link": "https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/#:~:text=Second%2C%20on%20November,receiving%20the%20report."
+	},
+	{
+		"name": "Apple",
+		"link": "https://9to5mac.com/2021/11/03/apple-confirms-outage-affecting-its-icloud-private-relay-service/"
+	},
+	{
+		"name": "Google Cloud Platform",
+		"link": "https://status.cloud.google.com/incidents/1xkAB1KmLrh5g3v9ZEZ7"
+	},
+	{
+		"name": "Microsoft (main servers)",
+		"link": "https://docs.microsoft.com/en-us/windows/release-health/status-windows-11-21h2#2739msgdesc"
+	},
+	{
+		"name": "An entire TLD",
+		"link": ""
+	},
+	{
+		"name": "Other major CDN provider (Fastly, Akamai, etc.)",
+		"link": ""
+	},
+	{
+		"name": "Twitch",
+		"link": ""
+	},
+	{
+		"name": "A major VPN service",
+		"link": ""
+	}
+]

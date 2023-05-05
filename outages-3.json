@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Slack",
+		"link": ""
+	},
+	{
+		"name": "A major cryptocurrency service",
+		"link": "https://news.ycombinator.com/item?id=30009714"
+	},
+	{
+		"name": "A major ISP / telecom company",
+		"link": ""
+	},
+	{
+		"name": "Cloudflare",
+		"link": "https://blog.cloudflare.com/incorrect-proxying-of-24-hostnames-on-january-24-2022/"
+	},
+	{
+		"name": "Google (main servers)",
+		"link": ""
+	},
+	{
+		"name": "Twitter",
+		"link": "https://twitter.com/twittersupport/status/1484353015297372168"
+	},
+	{
+		"name": "Tesla",
+		"link": ""
+	},
+	{
+		"name": "YouTube",
+		"link": ""
+	},
+	{
+		"name": "Reddit",
+		"link": "https://www.redditstatus.com/incidents/pj770zj700l1"
+	},
+	{
+		"name": "Microsoft Azure",
+		"link": ""
+	},
+	{
+		"name": "An antivirus / antimalware vendor",
+		"link": ""
+	},
+	{
+		"name": "Dyn",
+		"link": ""
+	},
+	{
+		"name": "A government entity",
+		"link": "https://www.itnews.com.au/news/tens-of-thousands-locked-out-of-ato-online-accounts-after-payroll-hack-574194"
+	},
+	{
+		"name": "A large DNS provider",
+		"link": ""
+	},
+	{
+		"name": "Amazon / AWS",
+		"link": ""
+	},
+	{
+		"name": "Facebook / WhatsApp / Instagram",
+		"link": ""
+	},
+	{
+		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
+		"link": "https://www.githubstatus.com/incidents/xvk42jkm6fzk"
+	},
+	{
+		"name": "Apple",
+		"link": "https://www.macrumors.com/2022/01/26/apples-icloud-service-experiencing-outage/"
+	},
+	{
+		"name": "Google Cloud Platform",
+		"link": "https://status.cloud.google.com/incidents/NMcnk6aE8xMHHwRGmyry"
+	},
+	{
+		"name": "Microsoft (main servers)",
+		"link": ""
+	},
+	{
+		"name": "An entire TLD",
+		"link": ""
+	},
+	{
+		"name": "Other major CDN provider (Fastly, Akamai, etc.)",
+		"link": ""
+	},
+	{
+		"name": "Twitch",
+		"link": ""
+	},
+	{
+		"name": "A major VPN service",
+		"link": ""
+	}
+]

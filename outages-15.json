@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Slack",
+		"link": ""
+	},
+	{
+		"name": "A major cryptocurrency service",
+		"link": ""
+	},
+	{
+		"name": "A major ISP / telecom company",
+		"link": ""
+	},
+	{
+		"name": "Yandex",
+		"link": "https://news.ycombinator.com/item?id=34525936"
+	},
+	{
+		"name": "Google (main servers)",
+		"link": ""
+	},
+	{
+		"name": "Twitter",
+		"link": ""
+	},
+	{
+		"name": "Riot Games",
+		"link": "https://threadreaderapp.com/thread/1617900234734198787.html"
+	},
+	{
+		"name": "YouTube",
+		"link": ""
+	},
+	{
+		"name": "Reddit",
+		"link": ""
+	},
+	{
+		"name": "Microsoft Azure",
+		"link": "https://twitter.com/MSFT365Status/status/1618149579341369345"
+	},
+	{
+		"name": "PayPal",
+		"link": "https://apps.web.maine.gov/online/aeviewer/ME/40/766753f1-f9c7-4dc5-9a5c-fe0f3ff51c06.shtml"
+	},
+	{
+		"name": "A major CI provider",
+		"link": "https://circleci.com/blog/january-4-2023-security-alert/"
+	},
+	{
+		"name": "A government entity",
+		"link": "https://amp.cnn.com/cnn/us/live-news/faa-system-outage-us-flight-disruptions/index.html"
+	},
+	{
+		"name": "A large DNS provider",
+		"link": "https://blog.cloudflare.com/cloudflare-incident-on-january-24th-2023/"
+	},
+	{
+		"name": "Amazon / AWS",
+		"link": ""
+	},
+	{
+		"name": "Facebook / WhatsApp / Instagram",
+		"link": ""
+	},
+	{
+		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
+		"link": ""
+	},
+	{
+		"name": "Apple",
+		"link": ""
+	},
+	{
+		"name": "Google Cloud Platform",
+		"link": ""
+	},
+	{
+		"name": "Microsoft (main servers)",
+		"link": ""
+	},
+	{
+		"name": "A major stock exchange",
+		"link": "https://www.bloomberg.com/news/articles/2023-01-25/nyse-mayhem-traced-to-a-staffer-who-left-a-backup-system-running"
+	},
+	{
+		"name": "Other major CDN provider (Fastly, Akamai, etc.)",
+		"link": ""
+	},
+	{
+		"name": "Twitch",
+		"link": ""
+	},
+	{
+		"name": "A major VPN service",
+		"link": ""
+	}
+]

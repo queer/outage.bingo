@@ -1,0 +1,98 @@
+[
+	{
+		"name": "LastPass (again)",
+		"link": "https://arstechnica.com/information-technology/2023/02/lastpass-hackers-infected-employees-home-computer-and-stole-corporate-vault/"
+	},
+	{
+		"name": "A major cryptocurrency service",
+		"link": ""
+	},
+	{
+		"name": "A major ISP / telecom company",
+		"link": ""
+	},
+	{
+		"name": "Cloudflare",
+		"link": ""
+	},
+	{
+		"name": "Google (main servers)",
+		"link": ""
+	},
+	{
+		"name": "Twitter",
+		"link": ""
+	},
+	{
+		"name": "Tesla",
+		"link": ""
+	},
+	{
+		"name": "YouTube",
+		"link": ""
+	},
+	{
+		"name": "Reddit",
+		"link": "https://old.reddit.com/r/reddit/comments/10y427y/we_had_a_security_incident_heres_what_we_know/"
+	},
+	{
+		"name": "Microsoft Azure",
+		"link": ""
+	},
+	{
+		"name": "An antivirus / antimalware vendor",
+		"link": ""
+	},
+	{
+		"name": "A major video game company",
+		"link": "https://www.ggrecon.com/articles/huge-activision-leak-details-warzone-2-and-mw2-2023-roadmap/"
+	},
+	{
+		"name": "A government entity",
+		"link": ""
+	},
+	{
+		"name": "A large DNS provider",
+		"link": "https://arstechnica.com/information-technology/2023/02/godaddy-says-a-multi-year-breach-hijacked-customer-websites-and-accounts/"
+	},
+	{
+		"name": "Amazon / AWS",
+		"link": ""
+	},
+	{
+		"name": "Facebook / WhatsApp / Instagram",
+		"link": ""
+	},
+	{
+		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
+		"link": ""
+	},
+	{
+		"name": "Apple",
+		"link": ""
+	},
+	{
+		"name": "Google Cloud Platform",
+		"link": "https://status.cloud.google.com/incidents/LnvJwfYu3TCyUrcrP7yf"
+	},
+	{
+		"name": "Microsoft (main servers)",
+		"link": ""
+	},
+	{
+		"name": "An entire TLD",
+		"link": ""
+	},
+	{
+		"name": "Other major CDN provider (Fastly, Akamai, etc.)",
+		"link": ""
+	},
+	{
+		"name": "Twitch",
+		"link": ""
+	},
+	{
+		"name": "A major VPN service",
+		"link": ""
+	}
+]

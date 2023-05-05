@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Slack",
+		"link": "https://status.slack.com/2021-09/06c1e17de93e7dc2"
+	},
+	{
+		"name": "Oracle Cloud",
+		"link": ""
+	},
+	{
+		"name": "A major ISP / telecom company",
+		"link": "https://arstechnica.com/information-technology/2021/10/company-that-routes-sms-for-all-major-us-carriers-was-hacked-for-five-years/"
+	},
+	{
+		"name": "Cloudflare",
+		"link": ""
+	},
+	{
+		"name": "Google (main servers)",
+		"link": ""
+	},
+	{
+		"name": "Twitter",
+		"link": ""
+	},
+	{
+		"name": "Tesla",
+		"link": ""
+	},
+	{
+		"name": "YouTube",
+		"link": ""
+	},
+	{
+		"name": "Reddit",
+		"link": "https://www.redditstatus.com/incidents/l0nxc21gvdh1"
+	},
+	{
+		"name": "Microsoft Azure",
+		"link": "https://status.azure.com/en-us/status/history/"
+	},
+	{
+		"name": "An antivirus / antimalware vendor",
+		"link": ""
+	},
+	{
+		"name": "Dyn",
+		"link": ""
+	},
+	{
+		"name": "A government entity",
+		"link": "https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website/"
+	},
+	{
+		"name": "A large DNS provider",
+		"link": ""
+	},
+	{
+		"name": "Amazon / AWS",
+		"link": ""
+	},
+	{
+		"name": "Facebook / WhatsApp / Instagram",
+		"link": "https://engineering.fb.com/2021/10/04/networking-traffic/outage/"
+	},
+	{
+		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
+		"link": ["https://www.githubstatus.com/incidents/bdbzpz7qxmbx", "https://www.githubstatus.com/incidents/m78sypncxsdw"]
+	},
+	{
+		"name": "Apple",
+		"link": "https://www.macrumors.com/2021/10/01/apple-card-issues/"
+	},
+	{
+		"name": "Google Cloud Platform",
+		"link": ""
+	},
+	{
+		"name": "Microsoft (main servers)",
+		"link": ""
+	},
+	{
+		"name": "An entire TLD",
+		"link": "https://old.reddit.com/r/sysadmin/comments/q38p8x/entire_club_domain_extension_is_down/"
+	},
+	{
+		"name": "Other major CDN provider (Fastly, Akamai, etc.)",
+		"link": ""
+	},
+	{
+		"name": "Twitch",
+		"link": "https://www.theverge.com/2021/10/6/22712250/twitch-hack-leak-data-streamer-revenue-steam-competitor"
+	},
+	{
+		"name": "A major VPN service",
+		"link": ""
+	}
+]

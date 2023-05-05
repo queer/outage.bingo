@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Slack",
+		"link": ""
+	},
+	{
+		"name": "A major cryptocurrency service",
+		"link": ""
+	},
+	{
+		"name": "A major ISP / telecom company",
+		"link": ""
+	},
+	{
+		"name": "Cloudflare",
+		"link": ""
+	},
+	{
+		"name": "Other cloud providers",
+		"link": "https://web.archive.org/web/20220311235424/https://contabo-status.com/"
+	},
+	{
+		"name": "Twitter",
+		"link": ""
+	},
+	{
+		"name": "Tesla",
+		"link": ""
+	},
+	{
+		"name": "YouTube",
+		"link": ""
+	},
+	{
+		"name": "Reddit",
+		"link": ""
+	},
+	{
+		"name": "Microsoft Azure",
+		"link": ""
+	},
+	{
+		"name": "An antivirus / antimalware vendor",
+		"link": ""
+	},
+	{
+		"name": "Dyn",
+		"link": ""
+	},
+	{
+		"name": "A government entity",
+		"link": "https://www.ameli.fr/assure/actualites/donnees-derobees-l-assurance-maladie-met-en-garde-ses-assures"
+	},
+	{
+		"name": "A large DNS provider",
+		"link": ""
+	},
+	{
+		"name": "Amazon / AWS",
+		"link": "https://news.ycombinator.com/item?id=30619871"
+	},
+	{
+		"name": "Facebook / WhatsApp / Instagram",
+		"link": ""
+	},
+	{
+		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
+		"link": "https://www.githubstatus.com/incidents/sksd097hm0y5"
+	},
+	{
+		"name": "Apple",
+		"link": "https://news.ycombinator.com/item?id=30756636"
+	},
+	{
+		"name": "Google Cloud Platform",
+		"link": "https://news.ycombinator.com/item?id=30603574"
+	},
+	{
+		"name": "Microsoft (main servers)",
+		"link": "https://www.bleepingcomputer.com/news/microsoft/lapsus-hackers-leak-37gb-of-microsofts-alleged-source-code/"
+	},
+	{
+		"name": "An entire TLD",
+		"link": "https://news.ycombinator.com/item?id=30596404"
+	},
+	{
+		"name": "Other major CDN provider (Fastly, Akamai, etc.)",
+		"link": ""
+	},
+	{
+		"name": "Twitch",
+		"link": ""
+	},
+	{
+		"name": "A major VPN service",
+		"link": ""
+	}
+]

@@ -1,0 +1,102 @@
+[
+	{
+		"name": "Slack",
+		"link": "https://status.slack.com/2021-12/f756fef8e8c0c05b"
+	},
+	{
+		"name": "A major cryptocurrency service",
+		"link": "https://status.coinbase.com/incidents/p2hj1rc6l4h1"
+	},
+	{
+		"name": "A major ISP / telecom company",
+		"link": ""
+	},
+	{
+		"name": "Cloudflare",
+		"link": "https://www.cloudflarestatus.com/incidents/qz5m74q8q0jl"
+	},
+	{
+		"name": "Google (main servers)",
+		"link": "https://www.google.com/appsstatus/dashboard/incidents/zURR7mGQjom4ktGZcR5A"
+	},
+	{
+		"name": "Twitter",
+		"link": ""
+	},
+	{
+		"name": "Tesla",
+		"link": ""
+	},
+	{
+		"name": "YouTube",
+		"link": ""
+	},
+	{
+		"name": "Reddit",
+		"link": "https://www.redditstatus.com/incidents/fnzshkkyzz10"
+	},
+	{
+		"name": "Microsoft Azure",
+		"link": ""
+	},
+	{
+		"name": "An antivirus / antimalware vendor",
+		"link": ""
+	},
+	{
+		"name": "Dyn",
+		"link": ""
+	},
+	{
+		"name": "A government entity",
+		"link": "https://www.itnews.com.au/news/sa-gov-employee-data-stolen-in-frontier-software-ransomware-attack-573880"
+	},
+	{
+		"name": "A large DNS provider",
+		"link": ""
+	},
+	{
+		"name": "Amazon / AWS",
+		"link": [
+			"https://news.ycombinator.com/item?id=29473630", 
+			"https://www.theverge.com/2021/12/15/22837637/aws-west-is-down-twitch-outage-amazon", 
+			"https://www.theverge.com/2021/12/22/22849780/amazon-aws-is-down-outage-slack-imgur-hulu-asana-epic"
+		]
+	},
+	{
+		"name": "Facebook / WhatsApp / Instagram",
+		"link": "https://news.yahoo.com/facebook-down-thousands-users-two-140618321.html"
+	},
+	{
+		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
+		"link": "https://status.python.org/incidents/0kx5k4p9ljyw"
+	},
+	{
+		"name": "Apple",
+		"link": ""
+	},
+	{
+		"name": "Google Cloud Platform",
+		"link": ""
+	},
+	{
+		"name": "Microsoft (main servers)",
+		"link": ""
+	},
+	{
+		"name": "An entire TLD",
+		"link": ""
+	},
+	{
+		"name": "Other major CDN provider (Fastly, Akamai, etc.)",
+		"link": ""
+	},
+	{
+		"name": "Twitch",
+		"link": ""
+	},
+	{
+		"name": "A major VPN service",
+		"link": ""
+	}
+]

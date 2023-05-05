@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Slack",
+		"link": ["https://slack.com/intl/en-gb/blog/news/notice-about-slack-password-resets", "https://status.slack.com/2022-08/1a58d5714b3ef784"]
+	},
+	{
+		"name": "A major cryptocurrency service",
+		"link": ""
+	},
+	{
+		"name": "A major ISP / telecom company",
+		"link": ""
+	},
+	{
+		"name": "Cloudflare",
+		"link": ""
+	},
+	{
+		"name": "Google (main servers)",
+		"link": "https://news.ycombinator.com/item?id=32393231"
+	},
+	{
+		"name": "Twitter",
+		"link": "https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accounts"
+	},
+	{
+		"name": "Tesla",
+		"link": ""
+	},
+	{
+		"name": "YouTube",
+		"link": ""
+	},
+	{
+		"name": "Reddit",
+		"link": ""
+	},
+	{
+		"name": "Microsoft Azure",
+		"link": ""
+	},
+	{
+		"name": "An antivirus / antimalware / password manager vendor",
+		"link": "https://blog.lastpass.com/2022/08/notice-of-recent-security-incident/"
+	},
+	{
+		"name": "Dyn",
+		"link": ""
+	},
+	{
+		"name": "A government entity",
+		"link": "https://www.adnradio.cl/nacional/2022/08/25/sernac-advierte-de-hackeo-a-sus-sistemas-informaticos.html"
+	},
+	{
+		"name": "A large DNS provider",
+		"link": ""
+	},
+	{
+		"name": "Amazon / AWS",
+		"link": ""
+	},
+	{
+		"name": "Facebook / WhatsApp / Instagram",
+		"link": ""
+	},
+	{
+		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
+		"link": ""
+	},
+	{
+		"name": "Apple",
+		"link": ""
+	},
+	{
+		"name": "Google Cloud Platform",
+		"link": ""
+	},
+	{
+		"name": "Microsoft (main servers)",
+		"link": ""
+	},
+	{
+		"name": "An entire TLD",
+		"link": ""
+	},
+	{
+		"name": "Other major CDN provider (Fastly, Akamai, etc.)",
+		"link": ""
+	},
+	{
+		"name": "Twitch",
+		"link": ""
+	},
+	{
+		"name": "A major VPN service",
+		"link": ""
+	}
+]

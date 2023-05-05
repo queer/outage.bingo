@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Slack",
+		"link": ""
+	},
+	{
+		"name": "Okta",
+		"link": "https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/"
+	},
+	{
+		"name": "A major ISP / telecom / server hosting company",
+		"link": "https://news.ycombinator.com/item?id=33839941"
+	},
+	{
+		"name": "Cloudflare",
+		"link": ""
+	},
+	{
+		"name": "Google (main servers)",
+		"link": ["https://bugs.chromium.org/p/apvi/issues/detail?id=100", "https://ads.google.com/status/publisher/incidents/EsQcYmPW6wkQvc9NZ4WB"]
+	},
+	{
+		"name": "Twitter",
+		"link": ["https://reddit.com/r/programming/comments/zuwgz4/twitter_data_breach_400_million_users_breachforums/", "https://news.ycombinator.com/item?id=34176208"]
+	},
+	{
+		"name": "Tesla",
+		"link": ""
+	},
+	{
+		"name": "YouTube",
+		"link": ""
+	},
+	{
+		"name": "Reddit",
+		"link": ""
+	},
+	{
+		"name": "Microsoft Azure",
+		"link": ""
+	},
+	{
+		"name": "An antivirus / antimalware vendor",
+		"link": ""
+	},
+	{
+		"name": "Dyn",
+		"link": ""
+	},
+	{
+		"name": "A government entity",
+		"link": "https://news.ycombinator.com/item?id=33895622"
+	},
+	{
+		"name": "A large DNS provider",
+		"link": ""
+	},
+	{
+		"name": "Amazon / AWS",
+		"link": ""
+	},
+	{
+		"name": "Facebook / WhatsApp / Instagram",
+		"link": ""
+	},
+	{
+		"name": "A major code hosting service (Github, PyPI, NPM, etc.)",
+		"link": "https://news.ycombinator.com/item?id=33906591"
+	},
+	{
+		"name": "Apple",
+		"link": ""
+	},
+	{
+		"name": "Google Cloud Platform",
+		"link": ""
+	},
+	{
+		"name": "Microsoft (main servers)",
+		"link": "https://arstechnica.com/information-technology/2022/12/microsoft-digital-certificates-have-once-again-been-abused-to-sign-malware/"
+	},
+	{
+		"name": "Another major social network",
+		"link": "https://arstechnica.com/information-technology/2022/12/hive-social-turns-off-servers-after-researchers-warn-hackers-can-access-all-data/"
+	},
+	{
+		"name": "Other major CDN provider (Fastly, Akamai, etc.)",
+		"link": ""
+	},
+	{
+		"name": "Twitch",
+		"link": ""
+	},
+	{
+		"name": "A major VPN service",
+		"link": ""
+	}
+]
