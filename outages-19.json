@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "A major ISP / telecom company",
-		"link": "https://www.msn.com/en-us/news/technology/t-mobile-reveals-another-major-data-breach/ar-AA1aDDFB"
+		"link": ["https://www.msn.com/en-us/news/technology/t-mobile-reveals-another-major-data-breach/ar-AA1aDDFB", "https://7news.com.au/technology/telstra/telstra-working-urgently-to-fix-national-outage-affecting-calls-c-10589125"]
 	},
 	{
 		"name": "Cloudflare",
