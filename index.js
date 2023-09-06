@@ -160,10 +160,10 @@ function redirectToNewCard(month) {
 			if (i === 2 && j === 2) {
 				// This is the free space
 				cell = document.createElement("td")
-				cell.innerText = "Free Space"
+				cell.innerText = "Free Space (Github Actions)"
 				cell.className = "cell-checked"
 				finalCard.push({
-					name: "Free Space",
+					name: "Free Space (Github Actions)",
 					link: "free",
 				})
 			} else {
